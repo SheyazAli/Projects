@@ -15,6 +15,7 @@ No JavaScript or external frameworks were used in this project.
 
 
 📚 Learning Goals
+
 Improve HTML/CSS structure understanding
 
 Practice responsive web design
@@ -22,4 +23,5 @@ Practice responsive web design
 Understand real-world website layout replication
 
 📌 Note
+
 This is a static clone for learning purposes only. All assets and trademarks belong to Netflix.
