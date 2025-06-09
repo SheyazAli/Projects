@@ -1,4 +1,5 @@
 Netflix India Clone 🎬
+
 This is a simple clone of the Netflix India landing page, built using only HTML and CSS. It’s my first project while learning web development, aimed at practicing layout design, responsiveness, and styling.
 
 🔍 Overview
