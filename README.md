@@ -6,6 +6,7 @@ This is a simple clone of the Netflix India landing page, built using only HTML 
 The project recreates the look and feel of the official Netflix India homepage.
 
 🚀 Technologies Used
+
 HTML5
 
 CSS3
